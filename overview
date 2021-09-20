@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<title>22.03: Intro to Design Thinking & Rapid Prototyping</title>
+
+<xmp theme="journal" style="display:none;">
+
+<topbar style="display:none;">
+	<item><a href="./index.html">Home</a></item>
+	<item><a href="./about.html">About Me</a></item>
+	<item><a href="./overview.html">Project Overview</a></item>
+
+</topbar>
+
+
+# Project Overview
+
+This semester we will focus on developing a single project for the duration of the term. We will begin with brainstorming and ideation, and proceed through the design process, with the goal of completing a working prototype by the end of the semester. It is anticipated that we will need to form several specialized teams, focusing on areas such as energy capture and distribution, mechanical design, and material selection, in addition to project management and integration. In other words, we will approach the project just as an engineering design firm would, collaborating together on the overall design while contributing in our own area of specialization and interest. The instructors will act both as the client representatives, and the design team leads.
+
+</xmp>
+
+
+<script src="https://strapdownjs.com/v/0.2/strapdown.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/joedf/strapdown-topbar@latest/assets/strapdown/strapdown-topbar.min.js"></script>
+</html>
